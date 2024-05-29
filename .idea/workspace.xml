@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34fe9a31-6e5d-473d-9abe-50760992dd0a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DAM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataAnalyse/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataAnalyse/dataProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SCADI-Dataset/SCADI-INFO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SCADI-Dataset/SCADI.arff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SCADI-Dataset/SCADI.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/container+crane+controller+data+set/Container_Crane_Controller_Data_Set.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/covid+19+surveillance/Surveillance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/winequality-red.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/winequality-white.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/winequality.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hierarchyClustering/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2eAFMKCZFmWTlKwnq6Ptxf0OEoo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.dataProcess.executor": "Run",
+    "Python.dateInput.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/PycharmP/DAM",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmP\DAM_2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="34fe9a31-6e5d-473d-9abe-50760992dd0a" name="更改" comment="" />
+      <created>1711339426732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711339426732</updated>
+      <workItem from="1711339467051" duration="9437000" />
+      <workItem from="1711353101867" duration="3801000" />
+      <workItem from="1711469476283" duration="195000" />
+      <workItem from="1711504614135" duration="2722000" />
+      <workItem from="1711777456519" duration="764000" />
+      <workItem from="1712847353145" duration="158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DAM_2$dataProcess.coverage" NAME="dataProcess 覆盖结果" MODIFIED="1711506083206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalyse" />
+    <SUITE FILE_PATH="coverage/DAM_2$dateInput.coverage" NAME="dateInput 覆盖结果" MODIFIED="1711356548215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataClean" />
+  </component>
+</project>
