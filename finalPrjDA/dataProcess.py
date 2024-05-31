@@ -22,4 +22,6 @@ for index in range(len(diabetes)):
 diabetes = diabetes.drop(columns=['CBG (mg / dl)', '饮食', 'Insulin dose - s.c.', 'Insulin dose - i.v.',
                                   'Blood Ketone (mmol / L)'])
 
-print(diabetes.columns)
+# TODO: Non-insulin hypoglycemic agents，Insulin dose - s.c.，Insulin dose - i.v. => 是否在一定时间内摄入N种药物：有则值>=1，无则=0
+
+print(diabetes['Had Deal in 2 Hours'])
